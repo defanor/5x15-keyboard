@@ -1,0 +1,3 @@
+[submodule "pcb/Teensy-3.1"]
+	path = pcb/Teensy-3.1
+	url = https://github.com/LuisDiazUgena/Teensy-3.1.git

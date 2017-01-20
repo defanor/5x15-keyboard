@@ -1,0 +1,32 @@
+* A 5x15 keyboard
+This is a keyboard project. That's also my first hardware project, so
+in case if somebody would want to reuse it, be careful. Though I've
+built it and it works.
+
+The keyboard has 5 rows and 15 columns (well, depends on how one
+counts, but approximately that much), and intended to be handy for
+emacs: has plenty of accessible modifier keys, and never requires to
+get too far from the home row.
+
+More information, photos, and the build process description can be
+found in the "[[https://defanor.uberspace.net/notes/building-a-keyboard.html][building a keyboard]]" note.
+
+** Dependencies and software
+The switches are borrowed from [[ergodox][ergodox]] (and altered a bit), and the
+[[https://github.com/LuisDiazUgena/Teensy-3.1][LuisDiazUgena/Teensy-3.1]] library for kicad is used. KiCad and LibreCAD
+were used, by the way.
+
+For the firmware, I've used PaulStoffregen/{[[https://github.com/PaulStoffregen/cores][cores]],
+[[https://github.com/PaulStoffregen/teensy_loader_cli][teensy_loader_cli]]}. Changes introduced to ~teensy3/Makefile~:
+
+#+BEGIN_EXAMPLE
+ # configurable options
+-OPTIONS = -DF_CPU=48000000 -DUSB_SERIAL -DLAYOUT_US_ENGLISH -DUSING_MAKEFILE
++OPTIONS = -DF_CPU=48000000 -DUSB_KEYBOARDONLY -DLAYOUT_US_ENGLISH -DUSING_MAKEFILE
+#+END_EXAMPLE
+
+Then it can be built with ~NO_ARDUINO=1 make~.
+
+** License
+Hopefully without violating licenses of the reused bits, this project
+is GPL-licensed.

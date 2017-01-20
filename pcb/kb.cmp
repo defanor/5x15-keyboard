@@ -1,0 +1,451 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Fri 06 May 2016 22:34:18 MSK
+
+BeginCmp
+TimeStamp = /567E7128;
+Reference = SW1.1;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E716D;
+Reference = SW1.2;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E71FB;
+Reference = SW1.3;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E72BE;
+Reference = SW1.4;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7309;
+Reference = SW1.5;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7354;
+Reference = SW1.6;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E73DB;
+Reference = SW1.7;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7418;
+Reference = SW1.9;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7430;
+Reference = SW1.10;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7448;
+Reference = SW1.11;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E749C;
+Reference = SW1.12;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E74B4;
+Reference = SW1.13;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E74C0;
+Reference = SW1.14;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E74CC;
+Reference = SW1.15;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E720A;
+Reference = SW2.1;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7246;
+Reference = SW2.2;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7282;
+Reference = SW2.3;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E72CD;
+Reference = SW2.4;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7318;
+Reference = SW2.5;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7363;
+Reference = SW2.6;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E73CC;
+Reference = SW2.7;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7412;
+Reference = SW2.9;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E742A;
+Reference = SW2.10;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7442;
+Reference = SW2.11;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7496;
+Reference = SW2.12;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E74AE;
+Reference = SW2.13;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E74BA;
+Reference = SW2.14;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E74C6;
+Reference = SW2.15;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7219;
+Reference = SW3.2;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE_1_75;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7255;
+Reference = SW3.3;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7291;
+Reference = SW3.4;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E72DC;
+Reference = SW3.5;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7327;
+Reference = SW3.6;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7372;
+Reference = SW3.7;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E73BD;
+Reference = SW3.8;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE_1_75;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E73F4;
+Reference = SW3.9;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E740C;
+Reference = SW3.10;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7424;
+Reference = SW3.11;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E743C;
+Reference = SW3.12;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7490;
+Reference = SW3.13;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E74A8;
+Reference = SW3.15;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE_1_75;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7228;
+Reference = SW4.2;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE_1_75;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7264;
+Reference = SW4.3;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E72A0;
+Reference = SW4.4;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E72EB;
+Reference = SW4.5;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7336;
+Reference = SW4.6;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7381;
+Reference = SW4.7;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E73AE;
+Reference = SW4.8;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE_1_75;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E73EE;
+Reference = SW4.9;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7406;
+Reference = SW4.10;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E741E;
+Reference = SW4.11;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7436;
+Reference = SW4.12;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E748A;
+Reference = SW4.13;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E74A2;
+Reference = SW4.15;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE_1_75;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7237;
+Reference = SW5.2;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE_1_75;
+EndCmp
+
+BeginCmp
+TimeStamp = /567F229B;
+Reference = SW5.4;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE_1_75;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7273;
+Reference = SW5.6;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE_1_75;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E72AF;
+Reference = SW5.7;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE_1_75;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E72FA;
+Reference = SW5.8;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE_1_75;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7345;
+Reference = SW5.9;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE_1_75;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E739F;
+Reference = SW5.11;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE_1_75;
+EndCmp
+
+BeginCmp
+TimeStamp = /567E7390;
+Reference = SW5.13;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE_1_75;
+EndCmp
+
+BeginCmp
+TimeStamp = /567F22AA;
+Reference = SW5.15;
+ValeurCmp = SWITCH_DIODE;
+IdModule  = MX_FLIP_DIODE_1_75;
+EndCmp
+
+BeginCmp
+TimeStamp = /567FE11F;
+Reference = U1;
+ValeurCmp = TEENSY_3.1;
+IdModule  = TEENSY_3.1;
+EndCmp
+
+EndListe

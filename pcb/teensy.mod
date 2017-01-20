@@ -1,0 +1,216 @@
+PCBNEW-LibModule-V1  Sun 27 Dec 2015 10:30:40 MSK
+# encoding utf-8
+Units mm
+$INDEX
+TEENSY_3.1
+$EndINDEX
+$MODULE TEENSY_3.1
+Po 0 0 0 15 567F9365 00000000 ~~
+Li TEENSY_3.1
+Sc 0
+AR /567FDB5D
+Op 0 0 0
+T0 12.7 -7.62 1 1 0 0.15 N I 21 N "U2"
+T1 -1.27 -7.62 1 1 900 0.15 N V 21 N "TEENSY 3.1"
+DS -2.54 -12.7 27.94 -12.7 0.15 21
+DS 27.94 -12.7 27.94 -2.54 0.15 21
+DS 27.94 -2.54 -2.54 -2.54 0.15 21
+DS -2.54 -2.54 -2.54 -12.7 0.15 21
+$PAD
+Sh "0" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "2" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "3" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$PAD
+Sh "4" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 0
+$EndPAD
+$PAD
+Sh "5" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 0
+$EndPAD
+$PAD
+Sh "6" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 0
+$EndPAD
+$PAD
+Sh "7" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 0
+$EndPAD
+$PAD
+Sh "8" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 0
+$EndPAD
+$PAD
+Sh "9" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22.86 0
+$EndPAD
+$PAD
+Sh "10" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 25.4 0
+$EndPAD
+$PAD
+Sh "11" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 27.94 0
+$EndPAD
+$PAD
+Sh "12" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 30.48 0
+$EndPAD
+$PAD
+Sh "13" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 30.48 -15.24
+$EndPAD
+$PAD
+Sh "14" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 27.94 -15.24
+$EndPAD
+$PAD
+Sh "15" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 25.4 -15.24
+$EndPAD
+$PAD
+Sh "16" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22.86 -15.24
+$EndPAD
+$PAD
+Sh "17" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 -15.24
+$EndPAD
+$PAD
+Sh "18" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 -15.24
+$EndPAD
+$PAD
+Sh "19" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -15.24
+$EndPAD
+$PAD
+Sh "20" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 -15.24
+$EndPAD
+$PAD
+Sh "21" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 -15.24
+$EndPAD
+$PAD
+Sh "22" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 -15.24
+$EndPAD
+$PAD
+Sh "23" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 -15.24
+$EndPAD
+$PAD
+Sh "24" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 -15.24
+$EndPAD
+$PAD
+Sh "25" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -15.24
+$EndPAD
+$PAD
+Sh "26" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -15.24
+$EndPAD
+$PAD
+Sh "27" C 1.9 1.9 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$EndMODULE TEENSY_3.1
+$EndLIBRARY

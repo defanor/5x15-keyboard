@@ -9,7 +9,7 @@ emacs: has plenty of accessible modifier keys, and never requires to
 get too far from the home row.
 
 More information, photos, and the build process description can be
-found in the "[[https://defanor.uberspace.net/notes/building-a-keyboard.html][building a keyboard]]" note.
+found in the "[[https://defanor.uberspace.net/notes/building-a-keyboard.xhtml][building a keyboard]]" note.
 
 ** Dependencies and software
 The switches are borrowed from [[https://www.ergodox.io/][ergodox]] (and altered a bit), and the
